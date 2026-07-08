@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Julianne Caceres
 
-<!--
-**lianccrs/lianccrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Security Researcher | Intelligence Analyst | Data Analyst
 
-Here are some ideas to get you started:
+I build data-driven intelligence products using SQL, Python, Tableau, and OSINT methodologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Current interests
+
+• Geopolitical Risk
+• Threat Intelligence
+• Country Risk
+• Data Analytics
+• Intelligence Automation
+
+Tech
+
+Python
+SQL
+Tableau
+Power BI
+Excel
+Git
+GitHub
+
+Projects
+
+Global Incident Dashboard
+
+Country Risk Monitor
+
+OSINT Toolkit
+
+Intelligence Database
+
+Threat Analysis Dashboard
